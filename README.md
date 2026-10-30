@@ -1,4 +1,9 @@
-## Linux Troubleshooting Lab
+# Linux Troubleshooting Lab
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)](scripts/)
+[![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)]()
+
 Практическая лаборатория по диагностике и устранению неисправностей в Linux.
 
 Репозиторий содержит намеренно сломанные сценарии, которые имитируют реальные проблемы: сеть, DNS, диски, сервисы, права доступа, процессы и другие типовые инциденты. Цель — тренировать навыки troubleshooting в контролируемой среде.
